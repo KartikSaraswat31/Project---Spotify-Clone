@@ -1,2 +1,2 @@
 # Project---Spotify-Clone
-This is a Spotify Clone created by HTML, CSS and JavaScript
+This is a responsive Spotify Clone webpage created by HTML, CSS and JavaScript. 
